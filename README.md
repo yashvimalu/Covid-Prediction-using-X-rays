@@ -1,7 +1,7 @@
 # Covid-Prediction-using-X-rays
 Implemented deep learning project using Tensorflow which could predict whether a person is  suffering from Covid-19 by providing his/her chest X-rays. 
 
-#About the code
+##About the code
 We made 2 models
 1.	Using MobileNet (Using Transfer learning) 
 	-MobileNet is a CNN architecture model for Image Classification and Mobile Vision.There are other models 
@@ -14,7 +14,8 @@ We made 2 models
 	consisting of Conv2D and MaxPolling layers.
 	-Using this, we got an accuracy of 0.9324 and loss of 0.1613.
 
-#About the dataset
+##About the dataset
+
 We found a dataset on kaggle consisting of 94 images (74 in training and 20 in testing in each category )
 in jpg forms divided in 2 categories Normal and Pneumonia in both training and testing.
 
